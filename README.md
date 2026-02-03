@@ -139,6 +139,7 @@ z
 
 ir1=df[z<3]
 ir1
+
 <img width="466" height="350" alt="image" src="https://github.com/user-attachments/assets/fa1af3cb-883a-4e0b-b271-a185dc462a05" />
 
 
